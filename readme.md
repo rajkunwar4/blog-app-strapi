@@ -1,0 +1,2 @@
+So we are going to be building a simple web blog app with the help of react, next, tailwind and strapi.
+The goal of this project is to learn how to use strati and how to integrate it with our front end and manage content.
