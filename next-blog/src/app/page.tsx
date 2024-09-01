@@ -6,6 +6,7 @@ import Image from "next/image";
 import { useEffect } from "react";
 
 export default function Home() {
+  
   const fetchCategories = async () => {
     const categories = await fetch("http://localhost:1337/api/categories");
     const res = await categories.json();
